@@ -1,9 +1,7 @@
 # MERN-Login-Registration
 🔴 MERN Login/Registration Template
 
-<a>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/MK_K5L0vT1g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</a>
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/MK_K5L0vT1g/0.jpg)](https://www.youtube.com/watch?v=MK_K5L0vT1g)
 
 ## 💫 Installation 
 
